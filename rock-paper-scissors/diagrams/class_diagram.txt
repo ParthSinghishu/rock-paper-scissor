@@ -1,0 +1,11 @@
+Components:
+main.py
+- runs the game
+
+game_module.py
+- get_user_choice()
+- decide_winner()
+- play_round()
+
+report_module.py
+- save_match_report()

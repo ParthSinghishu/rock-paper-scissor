@@ -1,0 +1,7 @@
+Sequence:
+User -> main.py: Start
+main.py -> get_user_choice: Ask user
+get_user_choice -> main.py: Return choice
+main.py -> play_round: Run round
+play_round -> main.py: Return result
+main.py -> report_module: (optional) save report

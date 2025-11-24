@@ -1,0 +1,5 @@
+Rock Paper Scissors - Match Summary
+Total rounds (best of): 3
+User score: 1
+CPU score: 2
+Result: CPU won the match
