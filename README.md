@@ -33,24 +33,31 @@ based on programmed rules — which is one of the core ideas behind Artificial I
 
 ## 🔹 Project File Structure
 rock-paper-scissors/
-│
-├── main.py → Controls game flow
-├── game_module.py → Handles choices, winner logic, CPU moves
-├── report_module.py → Saves match results in reports/
-├── README.md → Project documentation
-├── statement.md → Problem statement + scope
-│
-├── diagrams/ → Text-based design diagrams
-│ ├── use_case.txt
-│ ├── sequence.txt
-│ ├── class_diagram.txt
-│
-└── reports/
-└── sample_match.txt
+│   
+├── main.py → Controls game flow   
+├── game_module.py → Handles choices, winner logic, CPU moves   
+├── report_module.py → Saves match results in reports/   
+├── README.md → Project documentation   
+├── statement.md → Problem statement + scope   
+│   
+├── diagrams/ → Text-based design diagrams   
+│ ├── use_case.txt         
+│ ├── sequence.txt   
+│ ├── class_diagram.txt   
+│   
+└── reports/   
+└── sample_match.txt   
 
 
 ## 🔹 How to Run
 1. Install Python (3.8+ recommended).  
 2. Open the folder in terminal or Git Bash.  
 3. Run: `py main.py`
+
+## 🔹 Screenshot
+
+<img width="1896" height="839" alt="Screenshot 2025-11-24 214817" src="https://github.com/user-attachments/assets/33efb9c1-8735-4acd-b281-8ae80fda20ac" />
+<img width="1893" height="171" alt="Screenshot 2025-11-24 214856" src="https://github.com/user-attachments/assets/7ac8e06e-5f44-449a-bfd9-5d9019788a76" />
+
+
  
